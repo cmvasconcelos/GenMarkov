@@ -18,4 +18,5 @@ Imports: alabama (>= 2015.3-1), fastDummies (>= 1.6.3), Hmisc (>=
         4.5-0), matrixcalc (>= 1.0-3), maxLik (>= 1.4-8), nnet (>=
         7.3-16), stats (>= 4.1.0), ggplot2 (>= 3.3.5), gridExtra (>= 2.3), markovchain (>= 0.8.6), pracma (>= 2.3.3), methods (>= 4.1.0)
 NeedsCompilation: no
-
+URL: https://github.com/cmvasconcelos/GenMarkov
+BugReports: https://github.com/cmvasconcelos/GenMarkov/issues
